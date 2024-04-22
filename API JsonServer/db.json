@@ -1,0 +1,84 @@
+{
+    "shoes":[
+        {
+            "id":26491952,
+            "name":"(New)  ADIDAS FORUM MID CLOUD WHITE VIVID RED GY5819 - GIÀY MỚI CHÍNH HÃNG 100%",
+            "type":"non-fiction",
+            "price":1999000,
+            "available":true
+        },
+        {
+            "id":26227689,
+            "name":"(New) Nike Air Force 1 Low  07 White Gym Red DO5220-161 - GIÀY MỚI CHÍNH HÃNG 100%",
+            "type":"fiction",
+            "price":2999000,
+            "available":true
+        },
+        {
+            "id":25626280,
+            "available":false,
+            "name":"(NEW) Giày VANS OLD SKOOL RETRO COURT VN0A38G19EJ - CHÍNH HÃNG 100%",
+            "type":"fiction","price":1350000
+        },
+        {
+            "id":26432278,
+            "available":true,
+            "name":"(New) Nike Air Force 1 Low Have a Nike Day White Gold DM0118-100 - GIÀY MỚI CHÍNH HÃNG 100%",
+            "type":"fiction",
+            "price":2650000
+        },
+        {
+            "id":26490698,
+            "available":true,
+            "name":"(New) MLB BIG BALL CHUNKY EMBO 3ASHC601N - GIÀY MỚI CHÍNH HÃNG 100%",
+            "type":"fiction",
+            "price":1650000
+        },
+        {
+            "id":26468148,
+            "available":true,
+            "name":"(New) Nike Blazer Low 77 White Team Red DC4769-104 - GIÀY MỚI CHÍNH HÃNG 100%",
+            "type":"fiction",
+            "price":2250000
+        },
+        {
+            "id":26450964,
+            "available":true,
+            "name":"[NEW] PUMA Jada Bling White/Black 380751-05 - GIÀY MỚI CHÍNH HÃNG 100%",
+            "type":"fiction",
+            "price":1550000
+        },{
+            "id":26447671,
+            "available":false,
+            "name":"(New) Nike KD 14 NR GRon English 2 Ky-D DC9381-500- GIÀY MỚI CHÍNH HÃNG 100%",
+            "type":"non-fiction",
+            "price":2650000
+        }
+    ],
+    "users":[
+        {"id":1,"username":"annthuy","email":"annthuy@gmail.com","password":"ann1234"},
+        {"id":2,"username":"nganngo","email":"nganngo@gmail.com","password":"1234"},
+        {"id":3,"username":"chile1","email":"chile1@gmail.com","password":"chile1"},
+        {"id":4,"email":"nganngo0212@gmail.com","password":"1234"},
+        {"id":5,"email":"nganngo0309@gmail.com","password":"1234"},
+        {"id":6,"firstname":"ngan","lastname":"ngo","email":"nganngo03092002@gmail.com","password":"1234"},
+        {"id":7,"firstname":"ngan","lastname":"ngo","email":"nganngo030902@gmail.com","password":"1234"},
+        {"id":8,"firstname":"hin","lastname":"hin","email":"hinhin02@gmail.com","password":"hin1234"},
+        {"id":9,"firstname":"hin","lastname":"hin","email":"hinhin2002@gmail.com","password":"hin1234"},
+        {"id":10,"firstname":"an ngoc","lastname":"nhu thuy","email":"anthuy6120@gmail.com","password":"ann1234"},
+        {"id":11,"email":"chile12@gmail.com","password":"chile12"},
+        {"id":12,"firstname":"anngoc","lastname":"nhuthuy","email":"anthuy06012020@gmail.com","password":"ann1234"},
+        {"id":13,"firstname":"an","lastname":"nhuthuy","email":"anthuy060120@gmail.com","password":"ann1234"},
+        {"id":14,"firstname":"an","lastname":"nhuthuy","email":"anthuy06120@gmail.com","password":"ann1234"},
+        {"id":15,"firstname":"an","lastname":"nhuthuy","email":"annthuy6120@gmail.com","password":"ann1234"},
+        {"id":16,"firstname":"an","lastname":"nhuthuy","email":"annnthuy6120@gmail.com","password":"ann1234"},
+        {"id":17,"firstname":"Tuan","lastname":"AnhTuan","email":"tuanla@gmail.com","password":"ann1234"}
+    ],
+    "orders":[
+        {"id":1,"shoeId":26468148,"customerName":"Hin Hin","quantity":1,"timestamp":1656835999580},
+        {"id":2,"shoeId":26490698,"customerName":"Hin Hin","quantity":1,"timestamp":1667215553299},
+        {"id":3,"shoeId":26450964,"customerName":"Jasper.McCullough","quantity":1,"timestamp":1667388371186},
+        {"id":4,"shoeId":26450964,"customerName":"Favian4","quantity":1,"timestamp":1713695794740},
+        {"id":5,"shoeId":26450964,"customerName":"AnnThuy","quantity":1,"timestamp":1713695802210}
+    ]
+}
